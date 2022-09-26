@@ -2,7 +2,6 @@
 import time
 import serial
 import pygame
-#my name is hannan zainudin
 
 # written by Ibrahim for Public use
 
